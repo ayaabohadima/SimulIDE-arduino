@@ -8,4 +8,4 @@ Using SimulIDE simulator
  ### task2
  arduino & leds & stepper motor & ultrasonic sensor
  ### task3
-  arduino & switches keypad in one pin & stepper & switches & gates & seven segnment 
+  arduino & switches keypad in one pin & stepper & switches & nor gate & seven segnment 
