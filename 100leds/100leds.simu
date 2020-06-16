@@ -1,0 +1,894 @@
+<circuit type="simulide_0.1" speed="1000000" noLinStep="10" animate="1" reactStep="50" noLinAcc="5">
+ 
+Led-136: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-136" Resistance="80" MaxCurrent="0.029999999999999999" y="-500" Grounded="true" x="-1252" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-135: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-135" Resistance="80" MaxCurrent="0.029999999999999999" y="-500" Grounded="true" x="-1548" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-134: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-134" Resistance="80" MaxCurrent="0.029999999999999999" y="-500" Grounded="true" x="-1100" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-133: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-133" Resistance="80" MaxCurrent="0.029999999999999999" y="-500" Grounded="true" x="-1452" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-132: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-132" Resistance="80" MaxCurrent="0.029999999999999999" y="-500" Grounded="true" x="-1148" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-131: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-131" Resistance="80" MaxCurrent="0.029999999999999999" y="-500" Grounded="true" x="-1500" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-130: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-130" Resistance="80" MaxCurrent="0.029999999999999999" y="-500" Grounded="true" x="-1396" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-129: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-129" Resistance="80" MaxCurrent="0.029999999999999999" y="-500" Grounded="true" x="-1300" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-128: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-128" Resistance="80" MaxCurrent="0.029999999999999999" y="-500" Grounded="true" x="-1204" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-127: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-127" Resistance="80" MaxCurrent="0.029999999999999999" y="-500" Grounded="true" x="-1348" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-126: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-126" Resistance="80" MaxCurrent="0.029999999999999999" y="-532" Grounded="true" x="-1500" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-125: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-125" Resistance="80" MaxCurrent="0.029999999999999999" y="-532" Grounded="true" x="-1348" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-124: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-124" Resistance="80" MaxCurrent="0.029999999999999999" y="-532" Grounded="true" x="-1396" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-123: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-123" Resistance="80" MaxCurrent="0.029999999999999999" y="-532" Grounded="true" x="-1548" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-122: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-122" Resistance="80" MaxCurrent="0.029999999999999999" y="-532" Grounded="true" x="-1452" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-121: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-121" Resistance="80" MaxCurrent="0.029999999999999999" y="-532" Grounded="true" x="-1300" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-120: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-120" Resistance="80" MaxCurrent="0.029999999999999999" y="-532" Grounded="true" x="-1204" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-119: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-119" Resistance="80" MaxCurrent="0.029999999999999999" y="-532" Grounded="true" x="-1252" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-118: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-118" Resistance="80" MaxCurrent="0.029999999999999999" y="-532" Grounded="true" x="-1148" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-117: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-117" Resistance="80" MaxCurrent="0.029999999999999999" y="-532" Grounded="true" x="-1100" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Node-116: 
+<item itemtype="Node" id="Node-716" rotation="0" labelx="-16" labelrot="0" x="-500" valLabelx="0" labely="-24" valLabely="0" valLabRot="0" vflip="1" y="-340" objectName="Node-116" Show_id="false" hflip="1"/>
+ 
+Node-115: 
+<item itemtype="Node" id="Node-712" rotation="0" labelx="-16" labelrot="0" x="-532" valLabelx="0" labely="-24" valLabely="0" valLabRot="0" vflip="1" y="-356" objectName="Node-115" Show_id="false" hflip="1"/>
+ 
+Node-114: 
+<item itemtype="Node" id="Node-706" rotation="0" labelx="-16" labelrot="0" x="-540" valLabelx="0" labely="-24" valLabely="0" valLabRot="0" vflip="1" y="-372" objectName="Node-114" Show_id="false" hflip="1"/>
+ 
+Node-113: 
+<item itemtype="Node" id="Node-704" rotation="0" labelx="-16" labelrot="0" x="-532" valLabelx="0" labely="-24" valLabely="0" valLabRot="0" vflip="1" y="-388" objectName="Node-113" Show_id="false" hflip="1"/>
+ 
+Resistor-112: 
+<item rotation="0" hflip="1" Show_res="true" id="Resistor-696" Unit=" k?" valLabely="6" objectName="Resistor-112" Resistance="1" y="-324" x="-516" labelx="-12" itemtype="Resistor" valLabRot="0" valLabelx="-16" labely="-20" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Resistor-111: 
+<item rotation="0" hflip="1" Show_res="true" id="Resistor-696" Unit=" k?" valLabely="6" objectName="Resistor-111" Resistance="1" y="-340" x="-476" labelx="-12" itemtype="Resistor" valLabRot="0" valLabelx="-16" labely="-20" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Resistor-110: 
+<item rotation="0" hflip="1" Show_res="true" id="Resistor-696" Unit=" k?" valLabely="6" objectName="Resistor-110" Resistance="1" y="-356" x="-508" labelx="-12" itemtype="Resistor" valLabRot="0" valLabelx="-16" labely="-20" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Resistor-109: 
+<item rotation="0" hflip="1" Show_res="true" id="Resistor-696" Unit=" k?" valLabely="6" objectName="Resistor-109" Resistance="1" y="-372" x="-524" labelx="-12" itemtype="Resistor" valLabRot="0" valLabelx="-16" labely="-20" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Resistor-108: 
+<item rotation="0" hflip="1" Show_res="true" id="Resistor-696" Unit=" k?" valLabely="6" objectName="Resistor-108" Resistance="1" y="-388" x="-492" labelx="-12" itemtype="Resistor" valLabRot="0" valLabelx="-16" labely="-20" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Arduino Uno-107: 
+<item eeprom="0,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255" rotation="0" Mhz="16" Program="../../../ayas2/micro/finalTask/final/final.ino.standard.hex" Ser_Monitor="false" hflip="1" id="Arduino Uno-148" valLabely="0" objectName="Arduino Uno-107" y="-540" Ser_Port="false" x="-876" Logic_Symbol="false" labelx="100" itemtype="Arduino" valLabRot="0" valLabelx="0" labely="-21" vflip="1" labelrot="0" Show_id="true"/>
+ 
+KeyPad-106: 
+<item rotation="0" hflip="1" Cols="2" Rows="5" id="KeyPad-4" valLabely="0" objectName="KeyPad-106" y="-396" Key_Labels="1234567890" x="-580" labelx="-16" itemtype="KeyPad" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+And Gate-105: 
+<item Input_High_V="2.5" rotation="-180" Input_Imped="100000000000000" hflip="1" Inverted="false" id="And Gate-691" valLabely="0" objectName="And Gate-105" Out_High_V="5" y="-1244" Open_Collector="false" x="-876" labelx="-16" itemtype="And Gate" valLabRot="0" valLabelx="0" Out_Low_V="0" Num_Inputs="5" Input_Low_V="2.5" Out_Imped="40" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Resistor-104: 
+<item rotation="90" hflip="1" Show_res="true" id="Resistor-12" Unit=" k?" valLabely="6" objectName="Resistor-104" Resistance="10" y="-252" x="-556" labelx="-12" itemtype="Resistor" valLabRot="0" valLabelx="-16" labely="-20" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Resistor-103: 
+<item rotation="90" hflip="1" Show_res="true" id="Resistor-11" Unit=" ?" valLabely="6" objectName="Resistor-103" Resistance="220" y="-260" x="-580" labelx="-12" itemtype="Resistor" valLabRot="0" valLabelx="-16" labely="-20" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Node-102: 
+<item itemtype="Node" id="Node-952" rotation="0" labelx="-16" labelrot="0" x="-564" valLabelx="0" labely="-24" valLabely="0" valLabRot="0" vflip="1" y="-276" objectName="Node-102" Show_id="false" hflip="1"/>
+ 
+Node-101: 
+<item itemtype="Node" id="Node-956" rotation="0" labelx="-16" labelrot="0" x="-564" valLabelx="0" labely="-24" valLabely="0" valLabRot="0" vflip="1" y="-292" objectName="Node-101" Show_id="false" hflip="1"/>
+ 
+Led-100: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-100" Resistance="80" MaxCurrent="0.029999999999999999" y="-436" Grounded="true" x="-1148" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-99: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-99" Resistance="80" MaxCurrent="0.029999999999999999" y="-468" Grounded="true" x="-1500" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-98: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-98" Resistance="80" MaxCurrent="0.029999999999999999" y="-436" Grounded="true" x="-1452" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-97: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-97" Resistance="80" MaxCurrent="0.029999999999999999" y="-436" Grounded="true" x="-1548" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-96: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-96" Resistance="80" MaxCurrent="0.029999999999999999" y="-436" Grounded="true" x="-1252" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-95: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-95" Resistance="80" MaxCurrent="0.029999999999999999" y="-468" Grounded="true" x="-1204" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-94: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-94" Resistance="80" MaxCurrent="0.029999999999999999" y="-468" Grounded="true" x="-1252" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-93: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-93" Resistance="80" MaxCurrent="0.029999999999999999" y="-436" Grounded="true" x="-1396" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-92: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-92" Resistance="80" MaxCurrent="0.029999999999999999" y="-436" Grounded="true" x="-1100" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-91: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-91" Resistance="80" MaxCurrent="0.029999999999999999" y="-468" Grounded="true" x="-1452" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-90: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-90" Resistance="80" MaxCurrent="0.029999999999999999" y="-468" Grounded="true" x="-1348" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-89: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-89" Resistance="80" MaxCurrent="0.029999999999999999" y="-468" Grounded="true" x="-1548" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-88: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-88" Resistance="80" MaxCurrent="0.029999999999999999" y="-436" Grounded="true" x="-1300" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-87: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-87" Resistance="80" MaxCurrent="0.029999999999999999" y="-436" Grounded="true" x="-1500" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-86: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-86" Resistance="80" MaxCurrent="0.029999999999999999" y="-468" Grounded="true" x="-1148" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-85: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-85" Resistance="80" MaxCurrent="0.029999999999999999" y="-468" Grounded="true" x="-1100" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-84: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-84" Resistance="80" MaxCurrent="0.029999999999999999" y="-436" Grounded="true" x="-1348" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-83: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-83" Resistance="80" MaxCurrent="0.029999999999999999" y="-468" Grounded="true" x="-1300" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-82: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-82" Resistance="80" MaxCurrent="0.029999999999999999" y="-468" Grounded="true" x="-1396" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-81: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-81" Resistance="80" MaxCurrent="0.029999999999999999" y="-436" Grounded="true" x="-1204" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-80: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-80" Resistance="80" MaxCurrent="0.029999999999999999" y="-404" Grounded="true" x="-1548" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-79: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-79" Resistance="80" MaxCurrent="0.029999999999999999" y="-372" Grounded="true" x="-1452" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-78: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-78" Resistance="80" MaxCurrent="0.029999999999999999" y="-340" Grounded="true" x="-1548" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-77: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-77" Resistance="80" MaxCurrent="0.029999999999999999" y="-308" Grounded="true" x="-1348" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-76: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-76" Resistance="80" MaxCurrent="0.029999999999999999" y="-372" Grounded="true" x="-1348" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-75: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-75" Resistance="80" MaxCurrent="0.029999999999999999" y="-308" Grounded="true" x="-1100" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-74: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-74" Resistance="80" MaxCurrent="0.029999999999999999" y="-308" Grounded="true" x="-1252" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-73: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-73" Resistance="80" MaxCurrent="0.029999999999999999" y="-340" Grounded="true" x="-1348" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-72: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-72" Resistance="80" MaxCurrent="0.029999999999999999" y="-340" Grounded="true" x="-1500" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-71: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-71" Resistance="80" MaxCurrent="0.029999999999999999" y="-372" Grounded="true" x="-1252" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-70: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-70" Resistance="80" MaxCurrent="0.029999999999999999" y="-372" Grounded="true" x="-1204" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-69: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-69" Resistance="80" MaxCurrent="0.029999999999999999" y="-372" Grounded="true" x="-1548" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-68: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-68" Resistance="80" MaxCurrent="0.029999999999999999" y="-340" Grounded="true" x="-1204" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-67: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-67" Resistance="80" MaxCurrent="0.029999999999999999" y="-404" Grounded="true" x="-1396" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-66: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-66" Resistance="80" MaxCurrent="0.029999999999999999" y="-340" Grounded="true" x="-1148" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-65: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-65" Resistance="80" MaxCurrent="0.029999999999999999" y="-308" Grounded="true" x="-1204" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-64: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-64" Resistance="80" MaxCurrent="0.029999999999999999" y="-404" Grounded="true" x="-1500" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-63: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-63" Resistance="80" MaxCurrent="0.029999999999999999" y="-404" Grounded="true" x="-1300" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-62: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-62" Resistance="80" MaxCurrent="0.029999999999999999" y="-308" Grounded="true" x="-1396" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-61: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-61" Resistance="80" MaxCurrent="0.029999999999999999" y="-340" Grounded="true" x="-1452" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-60: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-60" Resistance="80" MaxCurrent="0.029999999999999999" y="-340" Grounded="true" x="-1300" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-59: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-59" Resistance="80" MaxCurrent="0.029999999999999999" y="-404" Grounded="true" x="-1204" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-58: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-58" Resistance="80" MaxCurrent="0.029999999999999999" y="-340" Grounded="true" x="-1100" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-57: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-57" Resistance="80" MaxCurrent="0.029999999999999999" y="-308" Grounded="true" x="-1300" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-56: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-56" Resistance="80" MaxCurrent="0.029999999999999999" y="-404" Grounded="true" x="-1452" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-55: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-55" Resistance="80" MaxCurrent="0.029999999999999999" y="-372" Grounded="true" x="-1500" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-54: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-54" Resistance="80" MaxCurrent="0.029999999999999999" y="-372" Grounded="true" x="-1300" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-53: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-53" Resistance="80" MaxCurrent="0.029999999999999999" y="-308" Grounded="true" x="-1452" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-52: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-52" Resistance="80" MaxCurrent="0.029999999999999999" y="-372" Grounded="true" x="-1100" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-51: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-51" Resistance="80" MaxCurrent="0.029999999999999999" y="-372" Grounded="true" x="-1396" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-50: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-50" Resistance="80" MaxCurrent="0.029999999999999999" y="-404" Grounded="true" x="-1348" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-49: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-49" Resistance="80" MaxCurrent="0.029999999999999999" y="-372" Grounded="true" x="-1148" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-48: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-48" Resistance="80" MaxCurrent="0.029999999999999999" y="-308" Grounded="true" x="-1500" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-47: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-47" Resistance="80" MaxCurrent="0.029999999999999999" y="-308" Grounded="true" x="-1548" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-46: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-46" Resistance="80" MaxCurrent="0.029999999999999999" y="-404" Grounded="true" x="-1148" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-45: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-45" Resistance="80" MaxCurrent="0.029999999999999999" y="-404" Grounded="true" x="-1252" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-44: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-44" Resistance="80" MaxCurrent="0.029999999999999999" y="-404" Grounded="true" x="-1100" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-43: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-43" Resistance="80" MaxCurrent="0.029999999999999999" y="-340" Grounded="true" x="-1252" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-42: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-42" Resistance="80" MaxCurrent="0.029999999999999999" y="-308" Grounded="true" x="-1148" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-41: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-41" Resistance="80" MaxCurrent="0.029999999999999999" y="-340" Grounded="true" x="-1396" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-40: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-40" Resistance="80" MaxCurrent="0.029999999999999999" y="-244" Grounded="true" x="-1300" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-39: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-39" Resistance="80" MaxCurrent="0.029999999999999999" y="-276" Grounded="true" x="-1100" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-38: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-38" Resistance="80" MaxCurrent="0.029999999999999999" y="-276" Grounded="true" x="-1300" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-37: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-37" Resistance="80" MaxCurrent="0.029999999999999999" y="-276" Grounded="true" x="-1396" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-36: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-36" Resistance="80" MaxCurrent="0.029999999999999999" y="-276" Grounded="true" x="-1500" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-35: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-35" Resistance="80" MaxCurrent="0.029999999999999999" y="-276" Grounded="true" x="-1548" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-34: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-34" Resistance="80" MaxCurrent="0.029999999999999999" y="-276" Grounded="true" x="-1204" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-33: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-33" Resistance="80" MaxCurrent="0.029999999999999999" y="-244" Grounded="true" x="-1148" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-32: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-32" Resistance="80" MaxCurrent="0.029999999999999999" y="-244" Grounded="true" x="-1204" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-31: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-31" Resistance="80" MaxCurrent="0.029999999999999999" y="-244" Grounded="true" x="-1396" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-30: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-30" Resistance="80" MaxCurrent="0.029999999999999999" y="-244" Grounded="true" x="-1548" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-29: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-29" Resistance="80" MaxCurrent="0.029999999999999999" y="-276" Grounded="true" x="-1348" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-28: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-28" Resistance="80" MaxCurrent="0.029999999999999999" y="-244" Grounded="true" x="-1452" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-27: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-27" Resistance="80" MaxCurrent="0.029999999999999999" y="-244" Grounded="true" x="-1252" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-26: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-26" Resistance="80" MaxCurrent="0.029999999999999999" y="-276" Grounded="true" x="-1452" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-25: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-25" Resistance="80" MaxCurrent="0.029999999999999999" y="-276" Grounded="true" x="-1252" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-24: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-24" Resistance="80" MaxCurrent="0.029999999999999999" y="-244" Grounded="true" x="-1500" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-23: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-23" Resistance="80" MaxCurrent="0.029999999999999999" y="-276" Grounded="true" x="-1148" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-22: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-22" Resistance="80" MaxCurrent="0.029999999999999999" y="-244" Grounded="true" x="-1100" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Led-21: 
+<item rotation="-180" Threshold="2.3999999999999999" hflip="1" id="Led-781" valLabely="0" objectName="Led-21" Resistance="80" MaxCurrent="0.029999999999999999" y="-244" Grounded="true" x="-1348" Color="0" labelx="-16" itemtype="Led" valLabRot="0" valLabelx="0" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Function-20: 
+<item Input_High_V="2.5" rotation="-270" Input_Imped="100000000000000" hflip="1" Inverted="false" id="Function-149" Functions="(!i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6),(!i0&amp;!i1&amp;i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6),(!i0&amp;!i1&amp;!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6)|(i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6),(!i0&amp;!i1&amp;i2&amp;i3&amp;!i4&amp;!i5&amp;!i6)|(i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1))|((i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)))|((((!i8&amp;!i9&amp;i10&amp;!i11))&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)))|(((!i8&amp;i9&amp;i10&amp;!i11)|(i8&amp;!i9&amp;i10&amp;!i11)&amp;!i0&amp;i1))|((i8&amp;i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)))|((i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!(!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7))|((i0&amp;i1&amp;!i11)&amp;!((!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6)|(i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!(!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7))|((i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!(!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7))|((((i8&amp;!i9&amp;i10&amp;!i11)|(!i8&amp;i9&amp;i10&amp;!i11))&amp;!i0&amp;i1)&amp;!(!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7))|((i8&amp;i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!(!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7))|((!i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!(!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7))|((i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!(!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7))|((i0&amp;i1&amp;!i11)&amp;!(!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)),(!i0&amp;!i1&amp;&#xa;i2&amp;!i3&amp;i4&amp;!i5&amp;!i6)|(i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!(!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7))|((i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!(!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7))|((((i8&amp;!i9&amp;i10&amp;!i11)|(!i8&amp;i9&amp;i10&amp;!i11))&amp;!i0&amp;i1)&amp;!(!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7))|((i8&amp;i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!(!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7))|((!i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1))|((i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1))|((i0&amp;i1&amp;!i11)&amp;!(!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)),(!i0&amp;!i1&amp;!i2&amp;i3&amp;i4&amp;!i5&amp;!i6)|(i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;!&#xd;&#xa;i5&amp;!i6&amp;!i7)))|((i9&amp;!i10&amp;!i11&amp;!i0&amp;i1))|((!i8&amp;!i9&amp;i10&amp;!i11&amp;!i0&amp;i1))|((((i8&amp;!i9&amp;i10&amp;!i11)|(!i8&amp;i9&amp;i10&amp;!i11))&amp;!i0&amp;i1)&amp;!((!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)))|((i8&amp;i9&amp;i10&amp;!i11&amp;!i0&amp;i1))|((i0&amp;i1&amp;!i11)),(!i0&amp;!i1&amp;i2&amp;i3&amp;i4&amp;!i5&amp;!i6)|(i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6)|(i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6),(!i0&amp;!i1&amp;i2&amp;!i3&amp;!i4&amp;i5&amp;!i6)|(i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;(i2&amp;i3&amp;i4&amp;!i5&amp;i6&amp;!i7))|((i0&amp;i1&amp;!i11)&amp;!(!i4&amp;!i5&amp;!i6&amp;!i7))|((i0&amp;i1&amp;!i11)&amp;!((!i6&amp;!i7)|(!i4&amp;!i5&amp;i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;i3&amp;!i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!(!i4&amp;!i5&amp;!i6&amp;!i7))|((!i8&amp;!i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((i8&amp;i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!(!i4&amp;!i5&amp;!i6&amp;!i7))|((!i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!(!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7))|((i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;&#xa;i2&amp;!i3&amp;i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|(!(!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)&amp;!i0&amp;i1&amp;i8&amp;!i9&amp;!i10&amp;!i11),(!i0&amp;!i1&amp;!i2&amp;i3&amp;i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!(!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7))|((((i8&amp;!i9&amp;i10&amp;!i11)|(!i8&amp;i9&amp;i10&amp;!i11))&amp;!i0&amp;i1)&amp;!(!i4&amp;!i5&amp;!i6&amp;!i7))|((!i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)|(!i3&amp;!i4&amp;!i5&amp;i6&amp;!i7)))|((i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;i3&amp;i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;!&#xd;&#xa;i6&amp;!i7)))|((i0&amp;i1&amp;!i11)&amp;!((!i6&amp;!i7)|(!i4&amp;!i5&amp;i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6)|(i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;i2&amp;!i3&amp;!i4&amp;i5&amp;!i6)|(i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i0&amp;i1&amp;!i11)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)|(!i4&amp;!i5&amp;i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;!i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;i3&amp;!i4&amp;!i5&amp;!i6)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((!i8&amp;!i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((i8&amp;i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((!i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)))|((i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!(!i4&amp;!i5&amp;!i6&amp;!i7))|((i0&amp;i1&amp;!i9&amp;!i10&amp;i11 )&amp;!(!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i0&amp;i1&amp;i8&amp;i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i4&amp;!i5&amp;i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;!i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;!i9&amp;!i10&amp;i11 )&amp;!(!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)),(!i0&amp;!i1&amp;&#xa;i2&amp;!i3&amp;i4&amp;!i5&amp;!i6)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!(!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7))|((i0&amp;i1&amp;i8&amp;i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;i3&amp;i4&amp;!i5&amp;!i6)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!(!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7))|((((i8&amp;!i9&amp;i10&amp;!i11)|(!i8&amp;i9&amp;i10&amp;!i11))&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((!i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;!i5&amp;i6&amp;!i7)))|((i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;i3&amp;i4&amp;!i5&amp;!i6)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!&#xd;&#xa;i6&amp;!i7)))|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!&#xd;&#xa;i6&amp;!i7)))&#xa;|((i0&amp;i1&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i0&amp;i1&amp;!i11)&amp;!((!i6&amp;!i7)|(!i4&amp;!i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;!i3&amp;!i4&amp;i5&amp;!i6)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i0&amp;i1&amp;!i11)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6)|(i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)||((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)|(!i4&amp;!i5&amp;i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;i6&amp;!i7)))|((i8&amp;i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;!i8&amp;i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;!i8&amp;i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;!i9&amp;!i10&amp;i11 )&amp;!(!i4&amp;!i5&amp;!i6&amp;!i7)),(!i0&amp;!i1&amp;i2&amp;i3&amp;!i4&amp;!i5&amp;!i6)|(i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((!i8&amp;!i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((i8&amp;i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((!i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!(!i4&amp;!i5&amp;!i6&amp;!i7))|((i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;((!i10&amp;!i11)|(!i9&amp;i10&amp;!i11)))&amp;!((!i6&amp;!i7)|(!i4&amp;!i5&amp;i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;!i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;!i8&amp;i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6)|(i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i8&amp;i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;&#xa;i2&amp;!i3&amp;i4&amp;!i5&amp;!i6)|(i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((&#xa;!i0&amp;i1&amp;i8&amp;!i9&amp;!i10&amp;!i11)&amp;!((!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)))|((i8&amp;i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)))|((i0&amp;i1&amp;!i9&amp;!i10&amp;i11 )),(!i0&amp;!i1&amp;!i2&amp;i3&amp;i4&amp;!i5&amp;!i6)|(i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;!i7)))|((((i8&amp;!i9&amp;i10&amp;!i11)|(!i8&amp;i9&amp;i10&amp;!i11))&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((!i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)))|((!i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)))|((i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)))|((i0&amp;i1&amp;((!i10&amp;!i11)|(!i9&amp;i10&amp;!i11)))&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;!i8&amp;i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;i3&amp;i4&amp;!i5&amp;!i6)|(i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!&#xd;&#xa;i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;!i8&amp;i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6)|(i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i0&amp;i1&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;!i3&amp;!i4&amp;i5&amp;!i6)|(i2&amp;i3&amp;!i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i0&amp;i1&amp;!i11)&amp;!((!i6&amp;!i7)|(!i3&amp;!i4&amp;!i5&amp;i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i0&amp;i1&amp;!i11)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)&#xa;,(!i0&amp;!i1&amp;!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)|(!i4&amp;!i5&amp;i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;i6&amp;!i7)))|((!i8&amp;!i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!(!i5&amp;!i6&amp;!i7))|((i0&amp;i1&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;i3&amp;!i4&amp;!i5&amp;!i6)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((!i8&amp;!i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((((i8&amp;!i9&amp;i10&amp;!i11)|(!i8&amp;i9&amp;i10&amp;!i11))&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((i8&amp;i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i6&amp;!i7)|(!i4&amp;!i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!(!i5&amp;!i6&amp;!i7))|((!i8&amp;!i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((((i8&amp;!i9&amp;i10&amp;!i11)|(!i8&amp;i9&amp;i10&amp;!i11))&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((!i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)|(!i3&amp;!i4&amp;!i5&amp;i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i6&amp;!i7)|(!i3&amp;!i4&amp;!i5&amp;i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;&#xa;i2&amp;!i3&amp;i4&amp;!i5&amp;!i6)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!(!i4&amp;!i5&amp;!i6&amp;!i7))|((i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((!i8&amp;!i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((((i8&amp;!i9&amp;i10&amp;!i11)|(!i8&amp;i9&amp;i10&amp;!i11))&amp;!i0&amp;i1)&amp;!(!i5&amp;!i6&amp;!i7))|((!i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)|(!i3&amp;!i4&amp;!i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i6&amp;!i7)|(!i3&amp;!i4&amp;!i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;i3&amp;i4&amp;!i5&amp;!i6)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((!i8&amp;!i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!(!i4&amp;!i5&amp;!i6&amp;!i7))|((((i8&amp;!i9&amp;i10&amp;!i11)|(!i8&amp;i9&amp;i10&amp;!i11))&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;!i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;i3&amp;i4&amp;!i5&amp;!i6)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!&#xd;&#xa;i6&amp;!i7)|(i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)&#xa;|((i0&amp;i1&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i5&amp;!i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;!i3&amp;!i4&amp;i5&amp;!i6)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)&#xa;|((i0&amp;i1&amp;!i11)&amp;!((!i6&amp;!i7)|(!i3&amp;!i4&amp;!i5&amp;i6&amp;!i7)))" valLabely="0" objectName="Function-20" Out_High_V="5" y="-892" x="-780" labelx="-16" itemtype="Function" valLabRot="0" valLabelx="0" Out_Low_V="0" Num_Inputs="12" Input_Low_V="2.5" Out_Imped="40" Num_Outputs="50" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Function-19: 
+<item Input_High_V="2.5" rotation="-450" Input_Imped="100000000000000" hflip="1" Inverted="false" id="Function-149" Functions="(!i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;i2&amp;i3&amp;!i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!&#xd;&#xa;i3&amp;i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;&#xa;i2&amp;!i3&amp;i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;i0&amp;!i1)|((i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;(i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7))|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!&#xd;&#xa;i3&amp;i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;i3&amp;i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;!&#xd;&#xa;i3&amp;i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;i3&amp;i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6)|(i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;i2&amp;!i3&amp;!i4&amp;i5&amp;!i6)|(i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;!i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;i3&amp;!i4&amp;!i5&amp;!i6)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;i0&amp;!i1)|((i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;!i5&amp;i6&amp;!i7)))|((!i8&amp;!i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)))|((((i8&amp;!i9&amp;i10&amp;!i11)|(!i8&amp;i9&amp;i10&amp;!i11))&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;i5&amp;!i6&amp;!i7)))|((i8&amp;i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)))|((i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;!i11)&amp;!((!i5&amp;!i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;i0&amp;!i1)|((i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)))|((((i8&amp;!i9&amp;i10&amp;!i11)|(!i8&amp;i9&amp;i10&amp;!i11))&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;i5&amp;!i6&amp;!i7)))|((!i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)))|((i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;!i11)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;&#xa;i2&amp;!i3&amp;i4&amp;!i5&amp;!i6)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;i0&amp;!i1)|((i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)|(i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;i5&amp;!i6&amp;!i7)))|((((i8&amp;!i9&amp;i10&amp;!i11)|(!i8&amp;i9&amp;i10&amp;!i11))&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)))|((!i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;!i11)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;i3&amp;i4&amp;!i5&amp;!i6)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;i0&amp;!i1)|((i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;i5&amp;!i6&amp;!i7)))|((((i8&amp;!i9&amp;i10&amp;!i11)|(!i8&amp;i9&amp;i10&amp;!i11))&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;!i5&amp;i6&amp;!i7)))|((i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;!i11)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;i3&amp;i4&amp;!i5&amp;!i6)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;i2&amp;!i3&amp;!i4&amp;i5&amp;!i6)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6)|(i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)|(!i3&amp;!i4&amp;!i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;!i11)&amp;!((!i5&amp;!i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;i3&amp;!i4&amp;!i5&amp;!i6)|(i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i8&amp;i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;i5&amp;!i6&amp;!i7)))|((!i8&amp;!i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;i5&amp;!i6&amp;!i7)))|((((i8&amp;!i9&amp;i10&amp;!i11)|(!i8&amp;i9&amp;i10&amp;!i11))&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;i5&amp;!i6&amp;!i7)))|((i8&amp;i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((!i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;i5&amp;!i6&amp;!i7)))|((i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;i9&amp;!i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6)|(i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i0&amp;i1&amp;!i8&amp;!i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i4&amp;i5&amp;i6&amp;!i7)|(!i3&amp;i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;!i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;!i8&amp;i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i4&amp;i5&amp;i6&amp;!i7)|(!i3&amp;i4&amp;i5&amp;i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;&#xa;i2&amp;!i3&amp;i4&amp;!i5&amp;!i6)|(i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;!i8&amp;!i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i4&amp;i5&amp;i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;!i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;!i8&amp;i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i4&amp;i5&amp;i6&amp;!i7)|(!i3&amp;i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;!i9&amp;!i10&amp;i11 )&amp;!(!i5&amp;!i6&amp;!i7)),(!i0&amp;!i1&amp;!i2&amp;i3&amp;i4&amp;!i5&amp;!i6)|(i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;i5&amp;!i6&amp;!i7)))|((!i8&amp;i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)|(!i3&amp;!i4&amp;!i5&amp;i6&amp;!i7)))|((!i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;i9&amp;!i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i4&amp;i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;i3&amp;i4&amp;!i5&amp;!i6)|(i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;!i11)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6)|(i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;i2&amp;!i3&amp;!i4&amp;i5&amp;!i6)|(i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(!i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(!i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i0&amp;i1&amp;!i11)&amp;!((!i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6)|(!i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)|(!i3&amp;!i4&amp;!i5&amp;i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;i3&amp;!i4&amp;!i5&amp;!i6)|(i0&amp;!i1&amp;!i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)|((i8&amp;i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)))|((!i8&amp;!i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;i5&amp;!i6&amp;!i7)))|((((i8&amp;!i9&amp;i10&amp;!i11)|(!i8&amp;i9&amp;i10&amp;!i11))&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)))|((i8&amp;i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((!i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;i5&amp;!i6&amp;!i7)))|((i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!(!i5&amp;!i6&amp;!i7))|((i0&amp;i1&amp;!i8&amp;i9&amp;!i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;!i8&amp;!i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;!i8&amp;i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i4&amp;i5&amp;i6&amp;!i7)|(!i3&amp;i4&amp;i5&amp;i6&amp;!i7)|(i3&amp;i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6)|(!i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i0&amp;i1&amp;i8&amp;!i9&amp;!i10&amp;!i11)&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;i9&amp;!i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;!i8&amp;!i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;!i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;!i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;&#xa;i2&amp;!i3&amp;i4&amp;!i5&amp;!i6)|(!i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7))|((i0&amp;i1&amp;i8&amp;!i9&amp;!i10&amp;!i11)&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;i9&amp;!i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;!i8&amp;!i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;!i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;i3&amp;i4&amp;!i5&amp;!i6)|(!i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)))|((!i8&amp;i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)|(!i3&amp;!i4&amp;!i5&amp;i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;!i5&amp;i6&amp;!i7)))|((!i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;!i8&amp;i9&amp;!i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;!i8&amp;!i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;!i8&amp;i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i4&amp;i5&amp;i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;i9&amp;i10&amp;!i11 )&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;i3&amp;i4&amp;!i5&amp;!i6)|(!i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6)|(!i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i0&amp;i1&amp;!i11)&amp;!((!i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;!i3&amp;!i4&amp;i5&amp;!i6)|(!i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i0&amp;i1&amp;!i11)&amp;!(!i5&amp;!i6&amp;!i7)),(!i0&amp;!i1&amp;i2&amp;!i3&amp;!i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;!i2&amp;i3&amp;!i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)|(!i4&amp;!i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;i3&amp;!i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i8&amp;i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((!i8&amp;!i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;i5&amp;!i6&amp;!i7)))|((((i8&amp;!i9&amp;i10&amp;!i11)|(!i8&amp;i9&amp;i10&amp;!i11))&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((i8&amp;i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((!i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i4&amp;i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;i5&amp;!i6&amp;!i7)))|((i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;!i9&amp;!i10&amp;!i11)&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i0&amp;i1&amp;i8&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i6&amp;!i7)|(!i4&amp;!i5&amp;i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;!i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;&#xa;i2&amp;!i3&amp;i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|!i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7))|((i0&amp;i1&amp;i8&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i6&amp;!i7)|(!i4&amp;!i5&amp;i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;i3&amp;i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((!i8&amp;i9&amp;i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i6&amp;!i7)|(!i4&amp;!i5&amp;i6&amp;!i7)))|((!i8&amp;!i9&amp;!i10&amp;i11&amp;!i0&amp;i1)&amp;!((!i4&amp;!i5&amp;!i6&amp;!i7)|(!i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)|(!i2&amp;i3&amp;i4&amp;!i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;!i9&amp;!i10&amp;!i11)&amp;!((!i6&amp;!i7)|(!i5&amp;i6&amp;!i7)|(!i4&amp;i5&amp;i6&amp;!i7)))|((i0&amp;i1&amp;i8&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i6&amp;!i7)|(!i4&amp;!i5&amp;i6&amp;!i7)|(!i2&amp;!i3&amp;i4&amp;!i5&amp;i6&amp;!i7))),(!i0&amp;!i1&amp;i2&amp;i3&amp;i4&amp;!i5&amp;!i6)|(i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((!i8&amp;!i9&amp;!i10&amp;!i11&amp;!i0&amp;i1)&amp;!((!i5&amp;!i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7)))|((i0&amp;i1&amp;!i9&amp;!i10&amp;i11 )&amp;!((!i5&amp;!i6&amp;!i7)|(!i3&amp;!i4&amp;i5&amp;!i6&amp;!i7))),(!i0&amp;!i1&amp;!i2&amp;!i3&amp;!i4&amp;i5&amp;!i6)|(i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1),(!i0&amp;!i1&amp;i2&amp;!i3&amp;!i4&amp;i5&amp;!i6)|(i2&amp;!i3&amp;i4&amp;!i5&amp;!i6&amp;i0&amp;!i1)|((i0&amp;i1&amp;!i11)&amp;!((!i6&amp;!i7)|(!i2&amp;!i3&amp;!i4&amp;!i5&amp;i6&amp;!i7)))" valLabely="0" objectName="Function-19" Out_High_V="5" y="-68" x="-1588" labelx="-16" itemtype="Function" valLabRot="0" valLabelx="0" Out_Low_V="0" Num_Inputs="12" Input_Low_V="2.5" Out_Imped="40" Num_Outputs="50" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Node-18: 
+<item itemtype="Node" id="Node-181" rotation="0" labelx="-16" labelrot="0" x="-532" valLabelx="0" labely="-24" valLabely="0" valLabRot="0" vflip="1" y="-588" objectName="Node-18" Show_id="false" hflip="1"/>
+ 
+Node-17: 
+<item itemtype="Node" id="Node-189" rotation="0" labelx="-16" labelrot="0" x="-524" valLabelx="0" labely="-24" valLabely="0" valLabRot="0" vflip="1" y="-596" objectName="Node-17" Show_id="false" hflip="1"/>
+ 
+Node-16: 
+<item itemtype="Node" id="Node-197" rotation="0" labelx="-16" labelrot="0" x="-516" valLabelx="0" labely="-24" valLabely="0" valLabRot="0" vflip="1" y="-604" objectName="Node-16" Show_id="false" hflip="1"/>
+ 
+Node-15: 
+<item itemtype="Node" id="Node-200" rotation="0" labelx="-16" labelrot="0" x="-508" valLabelx="0" labely="-24" valLabely="0" valLabRot="0" vflip="1" y="-612" objectName="Node-15" Show_id="false" hflip="1"/>
+ 
+Node-14: 
+<item itemtype="Node" id="Node-204" rotation="0" labelx="-16" labelrot="0" x="-500" valLabelx="0" labely="-24" valLabely="0" valLabRot="0" vflip="1" y="-620" objectName="Node-14" Show_id="false" hflip="1"/>
+ 
+Node-13: 
+<item itemtype="Node" id="Node-206" rotation="0" labelx="-16" labelrot="0" x="-492" valLabelx="0" labely="-24" valLabely="0" valLabRot="0" vflip="1" y="-628" objectName="Node-13" Show_id="false" hflip="1"/>
+ 
+Node-12: 
+<item itemtype="Node" id="Node-210" rotation="0" labelx="-16" labelrot="0" x="-484" valLabelx="0" labely="-24" valLabely="0" valLabRot="0" vflip="1" y="-636" objectName="Node-12" Show_id="false" hflip="1"/>
+ 
+Node-11: 
+<item itemtype="Node" id="Node-212" rotation="0" labelx="-16" labelrot="0" x="-476" valLabelx="0" labely="-24" valLabely="0" valLabRot="0" vflip="1" y="-644" objectName="Node-11" Show_id="false" hflip="1"/>
+ 
+Node-10: 
+<item itemtype="Node" id="Node-398" rotation="0" labelx="-16" labelrot="0" x="-468" valLabelx="0" labely="-24" valLabely="0" valLabRot="0" vflip="1" y="-652" objectName="Node-10" Show_id="false" hflip="1"/>
+ 
+Node-9: 
+<item itemtype="Node" id="Node-402" rotation="0" labelx="-16" labelrot="0" x="-460" valLabelx="0" labely="-24" valLabely="0" valLabRot="0" vflip="1" y="-660" objectName="Node-9" Show_id="false" hflip="1"/>
+ 
+Node-8: 
+<item itemtype="Node" id="Node-404" rotation="0" labelx="-16" labelrot="0" x="-452" valLabelx="0" labely="-24" valLabely="0" valLabRot="0" vflip="1" y="-668" objectName="Node-8" Show_id="false" hflip="1"/>
+ 
+Node-7: 
+<item itemtype="Node" id="Node-408" rotation="0" labelx="-16" labelrot="0" x="-444" valLabelx="0" labely="-24" valLabely="0" valLabRot="0" vflip="1" y="-676" objectName="Node-7" Show_id="false" hflip="1"/>
+ 
+AudioOut-6: 
+<item itemtype="AudioOut" id="AudioOut-411" rotation="-180" labelx="-20" labelrot="0" x="-980" valLabelx="0" labely="-36" valLabely="0" valLabRot="0" vflip="1" y="-420" Impedance="8" objectName="AudioOut-6" Show_id="false" hflip="1"/>
+ 
+TextComponent-5: 
+<item rotation="0" Font_Size="16" Text="Keypad" hflip="1" id="TextComponent-416" Border="1" valLabely="0" objectName="TextComponent-5" y="-436" x="-604" labelx="-16" itemtype="TextComponent" Fixed_Width="true" valLabRot="0" valLabelx="0" Font="Helvetica [Cronyx]" labely="-24" vflip="1" Margin="5" labelrot="0" Show_id="false"/>
+ 
+TextComponent-4: 
+<item rotation="0" Font_Size="16" Text="sound " hflip="1" id="TextComponent-416" Border="1" valLabely="0" objectName="TextComponent-4" y="-436" x="-956" labelx="-16" itemtype="TextComponent" Fixed_Width="true" valLabRot="0" valLabelx="0" Font="Helvetica [Cronyx]" labely="-24" vflip="1" Margin="5" labelrot="0" Show_id="false"/>
+ 
+TextComponent-3: 
+<item rotation="0" Font_Size="16" Text="led matrix" hflip="1" id="TextComponent-416" Border="1" valLabely="0" objectName="TextComponent-3" y="-652" x="-1364" labelx="-16" itemtype="TextComponent" Fixed_Width="true" valLabRot="0" valLabelx="0" Font="Helvetica [Cronyx]" labely="-24" vflip="1" Margin="5" labelrot="0" Show_id="false"/>
+ 
+TextComponent-2: 
+<item rotation="0" Font_Size="16" Text="function comp for frist 50 leds" hflip="1" id="TextComponent-416" Border="1" valLabely="0" objectName="TextComponent-2" y="-948" x="-1308" labelx="-16" itemtype="TextComponent" Fixed_Width="true" valLabRot="0" valLabelx="0" Font="Helvetica [Cronyx]" labely="-24" vflip="1" Margin="5" labelrot="0" Show_id="false"/>
+ 
+TextComponent-1: 
+<item rotation="0" Font_Size="16" Text="function comp for last 50 leds" hflip="1" id="TextComponent-416" Border="1" valLabely="0" objectName="TextComponent-1" y="-44" x="-1340" labelx="-16" itemtype="TextComponent" Fixed_Width="true" valLabRot="0" valLabelx="0" Font="Helvetica [Cronyx]" labely="-24" vflip="1" Margin="5" labelrot="0" Show_id="false"/>
+ 
+Connector-137: 
+<item endpinid="Node-113-0" rotation="0" hflip="1" startpinid="Resistor-108-lPin" id="Connector-697" valLabely="0" objectName="Connector-137" y="-388" x="-508" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-508,-388,-532,-388" valLabelx="0" enodeid="Circ_eNode-138" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-139: 
+<item endpinid="Node-114-0" rotation="0" hflip="1" startpinid="Resistor-109-lPin" id="Connector-702" valLabely="0" objectName="Connector-139" y="-372" x="-540" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-540,-372,-540,-372" valLabelx="0" enodeid="Circ_eNode-140" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-141: 
+<item endpinid="Node-113-1" rotation="0" hflip="1" startpinid="Resistor-109-rPin" id="Connector-703" valLabely="0" objectName="Connector-141" y="-372" x="-508" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-508,-372,-508,-380,-532,-380,-532,-388" valLabelx="0" enodeid="Circ_eNode-138" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-142: 
+<item endpinid="KeyPad-106-Pin0" rotation="0" hflip="1" startpinid="Node-113-2" id="Connector-705" valLabely="0" objectName="Connector-142" y="-388" x="-532" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-532,-388,-548,-388" valLabelx="0" enodeid="Circ_eNode-138" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-143: 
+<item endpinid="Resistor-110-rPin" rotation="0" hflip="1" startpinid="Node-114-1" id="Connector-708" valLabely="0" objectName="Connector-143" y="-372" x="-540" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-540,-372,-540,-364,-492,-364,-492,-356" valLabelx="0" enodeid="Circ_eNode-140" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-144: 
+<item endpinid="Node-115-0" rotation="0" hflip="1" startpinid="Resistor-110-lPin" id="Connector-709" valLabely="0" objectName="Connector-144" y="-356" x="-524" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-524,-356,-532,-356" valLabelx="0" enodeid="Circ_eNode-145" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-146: 
+<item endpinid="Node-116-0" rotation="0" hflip="1" startpinid="Resistor-111-lPin" id="Connector-710" valLabely="0" objectName="Connector-146" y="-340" x="-492" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-492,-340,-500,-340" valLabelx="0" enodeid="Circ_eNode-147" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-148: 
+<item endpinid="Node-115-1" rotation="0" hflip="1" startpinid="Resistor-111-rPin" id="Connector-711" valLabely="0" objectName="Connector-148" y="-340" x="-460" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-460,-340,-460,-348,-532,-348,-532,-356" valLabelx="0" enodeid="Circ_eNode-145" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-149: 
+<item endpinid="KeyPad-106-Pin2" rotation="0" hflip="1" startpinid="Node-115-2" id="Connector-713" valLabely="0" objectName="Connector-149" y="-356" x="-532" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-532,-356,-548,-356" valLabelx="0" enodeid="Circ_eNode-145" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-150: 
+<item endpinid="Resistor-112-lPin" rotation="0" hflip="1" startpinid="KeyPad-106-Pin4" id="Connector-714" valLabely="0" objectName="Connector-150" y="-324" x="-548" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-548,-324,-532,-324" valLabelx="0" enodeid="Circ_eNode-151" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-152: 
+<item endpinid="Node-116-1" rotation="0" hflip="1" startpinid="Resistor-112-rPin" id="Connector-715" valLabely="0" objectName="Connector-152" y="-324" x="-500" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-500,-324,-500,-340" valLabelx="0" enodeid="Circ_eNode-147" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-153: 
+<item endpinid="KeyPad-106-Pin3" rotation="0" hflip="1" startpinid="Node-116-2" id="Connector-717" valLabely="0" objectName="Connector-153" y="-340" x="-500" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-500,-340,-548,-340" valLabelx="0" enodeid="Circ_eNode-147" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-154: 
+<item endpinid="Arduino Uno-107-V5V" rotation="0" hflip="1" startpinid="Resistor-108-rPin" id="Connector-942" valLabely="0" objectName="Connector-154" y="-388" x="-476" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-476,-388,-476,-412,-612,-412,-612,-444,-724,-444" valLabelx="0" enodeid="Circ_eNode-155" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-156: 
+<item endpinid="Resistor-103-lPin" rotation="0" hflip="1" startpinid="KeyPad-106-Pin5" id="Connector-950" valLabely="0" objectName="Connector-156" y="-308" x="-580" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-580,-308,-580,-276" valLabelx="0" enodeid="Circ_eNode-157" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-158: 
+<item endpinid="Node-102-0" rotation="0" hflip="1" startpinid="Resistor-103-rPin" id="Connector-951" valLabely="0" objectName="Connector-158" y="-244" x="-580" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-580,-244,-564,-244,-564,-276" valLabelx="0" enodeid="Circ_eNode-159" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-160: 
+<item endpinid="Node-101-0" rotation="0" hflip="1" startpinid="Node-102-2" id="Connector-953" valLabely="0" objectName="Connector-160" y="-276" x="-564" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-564,-276,-564,-292" valLabelx="0" enodeid="Circ_eNode-159" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-161: 
+<item endpinid="Resistor-104-lPin" rotation="0" hflip="1" startpinid="Node-102-1" id="Connector-954" valLabely="0" objectName="Connector-161" y="-276" x="-564" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-564,-276,-556,-276,-556,-268" valLabelx="0" enodeid="Circ_eNode-159" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-162: 
+<item endpinid="KeyPad-106-Pin6" rotation="0" hflip="1" startpinid="Node-101-2" id="Connector-957" valLabely="0" objectName="Connector-162" y="-292" x="-564" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-564,-292,-564,-308" valLabelx="0" enodeid="Circ_eNode-159" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-163: 
+<item endpinid="Arduino Uno-107-PC0" rotation="0" hflip="1" startpinid="Node-101-1" id="Connector-958" valLabely="0" objectName="Connector-163" y="-292" x="-564" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-564,-292,-540,-292,-540,-204,-636,-204,-636,-484,-724,-484" valLabelx="0" enodeid="Circ_eNode-159" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-164: 
+<item endpinid="Arduino Uno-107-GND1" rotation="0" hflip="1" startpinid="Resistor-104-rPin" id="Connector-63" valLabely="0" objectName="Connector-164" y="-236" x="-556" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-556,-236,-556,-220,-684,-220,-684,-404,-708,-404,-708,-460,-724,-460" valLabelx="0" enodeid="Circ_eNode-165" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-166: 
+<item endpinid="Node-15-0" rotation="0" hflip="1" startpinid="Arduino Uno-107-PD3" id="Connector-169" valLabely="0" objectName="Connector-166" y="-500" x="-868" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-868,-500,-908,-500,-908,-612,-508,-612" valLabelx="0" enodeid="Circ_eNode-167" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-168: 
+<item endpinid="Node-14-0" rotation="0" hflip="1" startpinid="Arduino Uno-107-PD4" id="Connector-170" valLabely="0" objectName="Connector-168" y="-492" x="-868" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-868,-492,-916,-492,-916,-620,-500,-620" valLabelx="0" enodeid="Circ_eNode-169" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-170: 
+<item endpinid="Node-13-0" rotation="0" hflip="1" startpinid="Arduino Uno-107-PD5" id="Connector-178" valLabely="0" objectName="Connector-170" y="-484" x="-868" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-868,-484,-924,-484,-924,-628,-492,-628" valLabelx="0" enodeid="Circ_eNode-171" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-172: 
+<item endpinid="Node-12-0" rotation="0" hflip="1" startpinid="Arduino Uno-107-PD6" id="Connector-179" valLabely="0" objectName="Connector-172" y="-476" x="-868" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-868,-476,-932,-476,-932,-636,-484,-636" valLabelx="0" enodeid="Circ_eNode-173" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-174: 
+<item endpinid="Node-11-0" rotation="0" hflip="1" startpinid="Arduino Uno-107-PD7" id="Connector-180" valLabely="0" objectName="Connector-174" y="-468" x="-868" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-868,-468,-940,-468,-940,-644,-476,-644" valLabelx="0" enodeid="Circ_eNode-175" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-176: 
+<item endpinid="Function-20-ePin-input0" rotation="0" hflip="1" startpinid="Node-18-2" id="Connector-182" valLabely="0" objectName="Connector-176" y="-588" x="-532" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-532,-588,-532,-916,-788,-916" valLabelx="0" enodeid="Circ_eNode-177" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-178: 
+<item endpinid="Node-17-0" rotation="0" hflip="1" startpinid="Arduino Uno-107-PD1" id="Connector-167" valLabely="0" objectName="Connector-178" y="-516" x="-868" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-868,-516,-892,-516,-892,-596,-524,-596" valLabelx="0" enodeid="Circ_eNode-179" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-180: 
+<item endpinid="Function-19-ePin-input0" rotation="0" hflip="1" startpinid="Node-18-1" id="Connector-183" valLabely="0" objectName="Connector-180" y="-588" x="-532" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-532,-588,-532,-428,-444,-428,-444,108,-1580,108,-1580,-44" valLabelx="0" enodeid="Circ_eNode-177" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-181: 
+<item endpinid="Function-19-ePin-input1" rotation="0" hflip="1" startpinid="Node-17-1" id="Connector-191" valLabely="0" objectName="Connector-181" y="-596" x="-524" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-524,-596,-524,-436,-436,-436,-436,100,-1572,100,-1572,-44" valLabelx="0" enodeid="Circ_eNode-179" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-182: 
+<item endpinid="Function-19-ePin-input2" rotation="0" hflip="1" startpinid="Node-16-1" id="Connector-199" valLabely="0" objectName="Connector-182" y="-604" x="-516" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-516,-604,-516,-444,-428,-444,-428,92,-1564,92,-1564,-44" valLabelx="0" enodeid="Circ_eNode-183" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-184: 
+<item endpinid="Function-20-ePin-input3" rotation="0" hflip="1" startpinid="Node-15-2" id="Connector-201" valLabely="0" objectName="Connector-184" y="-612" x="-508" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-508,-612,-508,-940,-812,-940,-812,-916" valLabelx="0" enodeid="Circ_eNode-167" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-185: 
+<item endpinid="Function-19-ePin-input3" rotation="0" hflip="1" startpinid="Node-15-1" id="Connector-202" valLabely="0" objectName="Connector-185" y="-612" x="-508" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-508,-612,-508,-452,-420,-452,-420,84,-1556,84,-1556,-44" valLabelx="0" enodeid="Circ_eNode-167" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-186: 
+<item endpinid="Node-14-1" rotation="0" hflip="1" startpinid="Function-19-ePin-input4" id="Connector-203" valLabely="0" objectName="Connector-186" y="-43" x="-1548" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1548,-44,-1548,76,-412,76,-412,-460,-500,-460,-500,-620" valLabelx="0" enodeid="Circ_eNode-169" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-187: 
+<item endpinid="Function-20-ePin-input4" rotation="0" hflip="1" startpinid="Node-14-2" id="Connector-205" valLabely="0" objectName="Connector-187" y="-620" x="-500" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-500,-620,-500,-948,-820,-948,-820,-916" valLabelx="0" enodeid="Circ_eNode-169" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-188: 
+<item endpinid="Function-20-ePin-input5" rotation="0" hflip="1" startpinid="Node-13-2" id="Connector-207" valLabely="0" objectName="Connector-188" y="-628" x="-492" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-492,-628,-492,-956,-828,-956,-828,-916" valLabelx="0" enodeid="Circ_eNode-171" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-189: 
+<item endpinid="Function-19-ePin-input5" rotation="0" hflip="1" startpinid="Node-13-1" id="Connector-208" valLabely="0" objectName="Connector-189" y="-628" x="-492" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-492,-628,-492,-468,-404,-468,-404,68,-1540,68,-1540,-44" valLabelx="0" enodeid="Circ_eNode-171" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-190: 
+<item endpinid="Node-12-1" rotation="0" hflip="1" startpinid="Function-19-ePin-input6" id="Connector-209" valLabely="0" objectName="Connector-190" y="-43" x="-1532" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1532,-44,-1532,60,-396,60,-396,-476,-484,-476,-484,-636" valLabelx="0" enodeid="Circ_eNode-173" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-191: 
+<item endpinid="Function-20-ePin-input6" rotation="0" hflip="1" startpinid="Node-12-2" id="Connector-211" valLabely="0" objectName="Connector-191" y="-636" x="-484" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-484,-636,-484,-964,-836,-964,-836,-916" valLabelx="0" enodeid="Circ_eNode-173" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-192: 
+<item endpinid="Function-20-ePin-input7" rotation="0" hflip="1" startpinid="Node-11-2" id="Connector-213" valLabely="0" objectName="Connector-192" y="-644" x="-476" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-476,-644,-476,-972,-844,-972,-844,-916" valLabelx="0" enodeid="Circ_eNode-175" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-193: 
+<item endpinid="Led-117-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output0" id="Connector-222" valLabely="0" objectName="Connector-193" y="-868" x="-788" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-788,-868,-788,-652,-1084,-652,-1084,-532" valLabelx="0" enodeid="Circ_eNode-194" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-195: 
+<item endpinid="Led-118-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output1" id="Connector-223" valLabely="0" objectName="Connector-195" y="-868" x="-804" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-804,-868,-804,-660,-1132,-660,-1132,-532" valLabelx="0" enodeid="Circ_eNode-196" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-197: 
+<item endpinid="Led-125-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output5" id="Connector-227" valLabely="0" objectName="Connector-197" y="-868" x="-868" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-868,-868,-868,-692,-1332,-692,-1332,-532" valLabelx="0" enodeid="Circ_eNode-198" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-199: 
+<item endpinid="Led-124-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output6" id="Connector-228" valLabely="0" objectName="Connector-199" y="-868" x="-884" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-884,-868,-884,-700,-1380,-700,-1380,-532" valLabelx="0" enodeid="Circ_eNode-200" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-201: 
+<item endpinid="Function-20-ePin-output7" rotation="0" hflip="1" startpinid="Led-122-lPin" id="Connector-229" valLabely="0" objectName="Connector-201" y="-532" x="-1436" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1436,-532,-1436,-708,-900,-708,-900,-868" valLabelx="0" enodeid="Circ_eNode-202" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-203: 
+<item endpinid="Led-126-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output8" id="Connector-230" valLabely="0" objectName="Connector-203" y="-868" x="-916" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-916,-868,-916,-716,-1484,-716,-1484,-532" valLabelx="0" enodeid="Circ_eNode-204" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-205: 
+<item endpinid="Led-134-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output10" id="Connector-232" valLabely="0" objectName="Connector-205" y="-868" x="-948" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-948,-868,-948,-500,-1084,-500" valLabelx="0" enodeid="Circ_eNode-206" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-207: 
+<item endpinid="Led-132-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output11" id="Connector-233" valLabely="0" objectName="Connector-207" y="-868" x="-964" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-964,-868,-964,-508,-1132,-508,-1132,-500" valLabelx="0" enodeid="Circ_eNode-208" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-209: 
+<item endpinid="Led-136-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output13" id="Connector-235" valLabely="0" objectName="Connector-209" y="-868" x="-996" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-996,-868,-996,-524,-1236,-524,-1236,-500" valLabelx="0" enodeid="Circ_eNode-210" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-211: 
+<item endpinid="Led-129-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output14" id="Connector-236" valLabely="0" objectName="Connector-211" y="-868" x="-1012" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1012,-868,-1012,-548,-1284,-548,-1284,-500" valLabelx="0" enodeid="Circ_eNode-212" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-213: 
+<item endpinid="Led-130-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output16" id="Connector-238" valLabely="0" objectName="Connector-213" y="-868" x="-1044" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1044,-868,-1044,-556,-1364,-556,-1364,-500,-1380,-500" valLabelx="0" enodeid="Circ_eNode-214" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-215: 
+<item endpinid="Led-133-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output17" id="Connector-239" valLabely="0" objectName="Connector-215" y="-868" x="-1060" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1060,-868,-1060,-564,-1436,-564,-1436,-500" valLabelx="0" enodeid="Circ_eNode-216" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-217: 
+<item endpinid="Led-135-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output19" id="Connector-241" valLabely="0" objectName="Connector-217" y="-868" x="-1092" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1092,-868,-1092,-580,-1524,-580,-1524,-500,-1532,-500" valLabelx="0" enodeid="Circ_eNode-218" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-219: 
+<item endpinid="Led-85-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output20" id="Connector-242" valLabely="0" objectName="Connector-219" y="-868" x="-1108" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1108,-868,-1108,-740,-956,-740,-956,-468,-1084,-468" valLabelx="0" enodeid="Circ_eNode-220" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-221: 
+<item endpinid="Led-128-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output12" id="Connector-234" valLabely="0" objectName="Connector-221" y="-868" x="-980" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-980,-868,-980,-516,-1188,-516,-1188,-500" valLabelx="0" enodeid="Circ_eNode-222" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-223: 
+<item endpinid="Led-86-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output21" id="Connector-249" valLabely="0" objectName="Connector-223" y="-868" x="-1124" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1124,-868,-1124,-748,-972,-748,-972,-476,-1132,-476,-1132,-468" valLabelx="0" enodeid="Circ_eNode-224" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-225: 
+<item endpinid="Led-95-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output22" id="Connector-253" valLabely="0" objectName="Connector-225" y="-868" x="-1140" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1140,-868,-1140,-756,-996,-756,-996,-484,-1188,-484,-1188,-468" valLabelx="0" enodeid="Circ_eNode-226" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-227: 
+<item endpinid="Led-94-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output23" id="Connector-254" valLabely="0" objectName="Connector-227" y="-868" x="-1156" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1156,-868,-1156,-732,-988,-732,-988,-492,-1236,-492,-1236,-468" valLabelx="0" enodeid="Circ_eNode-228" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-229: 
+<item endpinid="Led-83-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output24" id="Connector-255" valLabely="0" objectName="Connector-229" y="-868" x="-1172" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1172,-868,-1172,-588,-1276,-588,-1276,-468,-1284,-468" valLabelx="0" enodeid="Circ_eNode-230" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-231: 
+<item endpinid="Led-82-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output26" id="Connector-257" valLabely="0" objectName="Connector-231" y="-868" x="-1204" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1204,-868,-1204,-732,-1372,-732,-1372,-468,-1380,-468" valLabelx="0" enodeid="Circ_eNode-232" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-233: 
+<item endpinid="Function-20-ePin-output27" rotation="0" hflip="1" startpinid="Led-91-lPin" id="Connector-258" valLabely="0" objectName="Connector-233" y="-468" x="-1436" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1436,-468,-1412,-468,-1412,-740,-1220,-740,-1220,-868" valLabelx="0" enodeid="Circ_eNode-234" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-235: 
+<item endpinid="Led-131-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output18" id="Connector-240" valLabely="0" objectName="Connector-235" y="-868" x="-1076" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1076,-868,-1076,-572,-1484,-572,-1484,-500" valLabelx="0" enodeid="Circ_eNode-236" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-237: 
+<item endpinid="Led-99-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output28" id="Connector-262" valLabely="0" objectName="Connector-237" y="-868" x="-1236" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1236,-868,-1236,-748,-1476,-748,-1476,-468,-1484,-468" valLabelx="0" enodeid="Circ_eNode-238" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-239: 
+<item endpinid="Led-89-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output29" id="Connector-263" valLabely="0" objectName="Connector-239" y="-868" x="-1252" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1252,-868,-1252,-756,-1540,-756,-1540,-468,-1532,-468" valLabelx="0" enodeid="Circ_eNode-240" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-241: 
+<item endpinid="Function-20-ePin-input2" rotation="0" hflip="1" startpinid="Node-16-2" id="Connector-198" valLabely="0" objectName="Connector-241" y="-604" x="-516" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-516,-604,-516,-932,-804,-932,-804,-916" valLabelx="0" enodeid="Circ_eNode-183" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-242: 
+<item endpinid="Function-20-ePin-input1" rotation="0" hflip="1" startpinid="Node-17-2" id="Connector-190" valLabely="0" objectName="Connector-242" y="-596" x="-524" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-524,-596,-524,-924,-796,-924,-796,-916" valLabelx="0" enodeid="Circ_eNode-179" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-243: 
+<item endpinid="Led-90-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output25" id="Connector-236" valLabely="0" objectName="Connector-243" y="-868" x="-1188" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1188,-868,-1188,-668,-1212,-668,-1212,-596,-1332,-596,-1332,-468" valLabelx="0" enodeid="Circ_eNode-244" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-245: 
+<item endpinid="Led-120-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output2" id="Connector-192" valLabely="0" objectName="Connector-245" y="-868" x="-820" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-820,-868,-820,-668,-1180,-668,-1180,-636,-1188,-636,-1188,-532" valLabelx="0" enodeid="Circ_eNode-246" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-247: 
+<item endpinid="KeyPad-106-Pin1" rotation="0" hflip="1" startpinid="Node-114-2" id="Connector-134" valLabely="0" objectName="Connector-247" y="-372" x="-540" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-540,-372,-548,-372" valLabelx="0" enodeid="Circ_eNode-140" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-248: 
+<item endpinid="Led-92-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output30" id="Connector-262" valLabely="0" objectName="Connector-248" y="-868" x="-1268" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1268,-868,-1268,-796,-1004,-796,-1004,-436,-1084,-436" valLabelx="0" enodeid="Circ_eNode-249" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-250: 
+<item endpinid="Led-100-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output31" id="Connector-266" valLabely="0" objectName="Connector-250" y="-868" x="-1284" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1284,-868,-1284,-780,-1020,-780,-1020,-444,-1132,-444,-1132,-436" valLabelx="0" enodeid="Circ_eNode-251" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-252: 
+<item endpinid="Led-81-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output32" id="Connector-267" valLabely="0" objectName="Connector-252" y="-868" x="-1300" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1300,-868,-1300,-620,-1164,-620,-1164,-436,-1188,-436" valLabelx="0" enodeid="Circ_eNode-253" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-254: 
+<item endpinid="Function-20-ePin-output33" rotation="0" hflip="1" startpinid="Led-96-lPin" id="Connector-268" valLabely="0" objectName="Connector-254" y="-436" x="-1236" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1236,-436,-1228,-436,-1228,-772,-1316,-772,-1316,-868" valLabelx="0" enodeid="Circ_eNode-255" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-256: 
+<item endpinid="Led-121-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output4" id="Connector-196" valLabely="0" objectName="Connector-256" y="-868" x="-852" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-852,-868,-852,-684,-1284,-684,-1284,-532" valLabelx="0" enodeid="Circ_eNode-257" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-258: 
+<item endpinid="Led-88-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output34" id="Connector-272" valLabely="0" objectName="Connector-258" y="-868" x="-1332" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1332,-868,-1332,-764,-1268,-764,-1268,-436,-1284,-436" valLabelx="0" enodeid="Circ_eNode-259" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-260: 
+<item endpinid="Function-20-ePin-output35" rotation="0" hflip="1" startpinid="Led-84-lPin" id="Connector-275" valLabely="0" objectName="Connector-260" y="-436" x="-1332" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1332,-436,-1324,-436,-1324,-764,-1348,-764,-1348,-868" valLabelx="0" enodeid="Circ_eNode-261" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-262: 
+<item endpinid="Led-93-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output36" id="Connector-276" valLabely="0" objectName="Connector-262" y="-868" x="-1364" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1364,-868,-1364,-436,-1380,-436" valLabelx="0" enodeid="Circ_eNode-263" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-264: 
+<item endpinid="Function-20-ePin-output37" rotation="0" hflip="1" startpinid="Led-98-lPin" id="Connector-277" valLabely="0" objectName="Connector-264" y="-436" x="-1436" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1436,-436,-1428,-436,-1428,-772,-1380,-772,-1380,-868" valLabelx="0" enodeid="Circ_eNode-265" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-266: 
+<item endpinid="Led-87-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output38" id="Connector-278" valLabely="0" objectName="Connector-266" y="-868" x="-1396" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1396,-868,-1396,-780,-1468,-780,-1468,-436,-1484,-436" valLabelx="0" enodeid="Circ_eNode-267" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-268: 
+<item endpinid="Function-20-ePin-output39" rotation="0" hflip="1" startpinid="Led-97-lPin" id="Connector-279" valLabely="0" objectName="Connector-268" y="-436" x="-1532" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1532,-436,-1516,-436,-1516,-788,-1412,-788,-1412,-868" valLabelx="0" enodeid="Circ_eNode-269" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-270: 
+<item endpinid="Led-80-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output49" id="Connector-280" valLabely="0" objectName="Connector-270" y="-868" x="-1572" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1572,-868,-1572,-412,-1532,-412,-1532,-404" valLabelx="0" enodeid="Circ_eNode-271" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-272: 
+<item endpinid="Function-20-ePin-output48" rotation="0" hflip="1" startpinid="Led-64-lPin" id="Connector-281" valLabely="0" objectName="Connector-272" y="-404" x="-1484" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1484,-404,-1484,-420,-1564,-420,-1564,-868,-1556,-868" valLabelx="0" enodeid="Circ_eNode-273" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-274: 
+<item endpinid="Led-56-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output47" id="Connector-282" valLabely="0" objectName="Connector-274" y="-868" x="-1540" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1540,-868,-1540,-764,-1588,-764,-1588,-428,-1436,-428,-1436,-404" valLabelx="0" enodeid="Circ_eNode-275" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-276: 
+<item endpinid="Led-123-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output9" id="Connector-206" valLabely="0" objectName="Connector-276" y="-868" x="-932" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-932,-868,-932,-724,-1532,-724,-1532,-532" valLabelx="0" enodeid="Circ_eNode-277" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-278: 
+<item endpinid="Function-20-ePin-output46" rotation="0" hflip="1" startpinid="Led-67-lPin" id="Connector-289" valLabely="0" objectName="Connector-278" y="-404" x="-1380" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1380,-404,-1380,-668,-1524,-668,-1524,-868" valLabelx="0" enodeid="Circ_eNode-279" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-280: 
+<item endpinid="Led-50-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output45" id="Connector-290" valLabely="0" objectName="Connector-280" y="-868" x="-1508" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1508,-868,-1508,-620,-1324,-620,-1324,-404,-1332,-404" valLabelx="0" enodeid="Circ_eNode-281" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-282: 
+<item endpinid="Function-20-ePin-output44" rotation="0" hflip="1" startpinid="Led-63-lPin" id="Connector-291" valLabely="0" objectName="Connector-282" y="-404" x="-1284" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1284,-404,-1284,-828,-1492,-828,-1492,-868" valLabelx="0" enodeid="Circ_eNode-283" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-284: 
+<item endpinid="Led-45-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output43" id="Connector-292" valLabely="0" objectName="Connector-284" y="-868" x="-1476" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1476,-868,-1476,-604,-1236,-604,-1236,-404" valLabelx="0" enodeid="Circ_eNode-285" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-286: 
+<item endpinid="Function-20-ePin-output42" rotation="0" hflip="1" startpinid="Led-59-lPin" id="Connector-294" valLabely="0" objectName="Connector-286" y="-404" x="-1188" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1188,-404,-1188,-844,-1460,-844,-1460,-868" valLabelx="0" enodeid="Circ_eNode-287" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-288: 
+<item endpinid="Led-46-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output41" id="Connector-295" valLabely="0" objectName="Connector-288" y="-868" x="-1444" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1444,-868,-1444,-612,-1132,-612,-1132,-404" valLabelx="0" enodeid="Circ_eNode-289" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-290: 
+<item endpinid="Function-20-ePin-output40" rotation="0" hflip="1" startpinid="Led-44-lPin" id="Connector-296" valLabely="0" objectName="Connector-290" y="-404" x="-1084" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1084,-404,-1052,-404,-1052,-852,-1428,-852,-1428,-868" valLabelx="0" enodeid="Circ_eNode-291" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-292: 
+<item endpinid="Led-22-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output0" id="Connector-297" valLabely="0" objectName="Connector-292" y="-92" x="-1580" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1580,-92,-1580,-132,-1084,-132,-1084,-244" valLabelx="0" enodeid="Circ_eNode-293" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-294: 
+<item endpinid="Led-33-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output1" id="Connector-298" valLabely="0" objectName="Connector-294" y="-92" x="-1564" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1564,-92,-1564,-140,-1132,-140,-1132,-244" valLabelx="0" enodeid="Circ_eNode-295" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-296: 
+<item endpinid="Led-32-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output2" id="Connector-299" valLabely="0" objectName="Connector-296" y="-91" x="-1548" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1548,-92,-1548,-148,-1188,-148,-1188,-244" valLabelx="0" enodeid="Circ_eNode-297" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-298: 
+<item endpinid="Led-27-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output3" id="Connector-300" valLabely="0" objectName="Connector-298" y="-91" x="-1532" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1532,-92,-1532,-156,-1236,-156,-1236,-244" valLabelx="0" enodeid="Circ_eNode-299" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-300: 
+<item endpinid="Function-19-ePin-output4" rotation="0" hflip="1" startpinid="Led-40-lPin" id="Connector-301" valLabely="0" objectName="Connector-300" y="-244" x="-1284" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1284,-244,-1284,-124,-1516,-124,-1516,-92" valLabelx="0" enodeid="Circ_eNode-301" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-302: 
+<item endpinid="Led-21-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output5" id="Connector-302" valLabely="0" objectName="Connector-302" y="-91" x="-1500" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1500,-92,-1500,-164,-1332,-164,-1332,-244" valLabelx="0" enodeid="Circ_eNode-303" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-304: 
+<item endpinid="Function-19-ePin-output6" rotation="0" hflip="1" startpinid="Led-31-lPin" id="Connector-303" valLabely="0" objectName="Connector-304" y="-244" x="-1380" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1380,-244,-1380,-116,-1484,-116,-1484,-92" valLabelx="0" enodeid="Circ_eNode-305" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-306: 
+<item endpinid="Led-28-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output7" id="Connector-304" valLabely="0" objectName="Connector-306" y="-91" x="-1468" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1468,-92,-1468,-228,-1436,-228,-1436,-244" valLabelx="0" enodeid="Circ_eNode-307" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-308: 
+<item endpinid="Function-19-ePin-output8" rotation="0" hflip="1" startpinid="Led-24-lPin" id="Connector-305" valLabely="0" objectName="Connector-308" y="-244" x="-1484" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1484,-244,-1484,-172,-1452,-172,-1452,-92" valLabelx="0" enodeid="Circ_eNode-309" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-310: 
+<item endpinid="Led-30-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output9" id="Connector-306" valLabely="0" objectName="Connector-310" y="-91" x="-1436" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1436,-92,-1436,-188,-1532,-188,-1532,-244" valLabelx="0" enodeid="Circ_eNode-311" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-312: 
+<item endpinid="Function-19-ePin-output11" rotation="0" hflip="1" startpinid="Led-23-lPin" id="Connector-308" valLabely="0" objectName="Connector-312" y="-276" x="-1132" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1132,-276,-1132,-108,-1404,-108,-1404,-92" valLabelx="0" enodeid="Circ_eNode-313" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-314: 
+<item endpinid="Led-34-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output12" id="Connector-309" valLabely="0" objectName="Connector-314" y="-91" x="-1388" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1388,-92,-1388,-212,-1180,-212,-1180,-276,-1188,-276" valLabelx="0" enodeid="Circ_eNode-315" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-316: 
+<item endpinid="Function-19-ePin-output13" rotation="0" hflip="1" startpinid="Led-25-lPin" id="Connector-313" valLabely="0" objectName="Connector-316" y="-276" x="-1236" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1236,-276,-1236,-116,-1372,-116,-1372,-92" valLabelx="0" enodeid="Circ_eNode-317" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-318: 
+<item endpinid="Led-38-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output14" id="Connector-314" valLabely="0" objectName="Connector-318" y="-91" x="-1356" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1356,-92,-1356,-188,-1276,-188,-1276,-276,-1284,-276" valLabelx="0" enodeid="Circ_eNode-319" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-320: 
+<item endpinid="Function-19-ePin-output15" rotation="0" hflip="1" startpinid="Led-29-lPin" id="Connector-315" valLabely="0" objectName="Connector-320" y="-276" x="-1332" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1332,-276,-1332,-92,-1340,-92" valLabelx="0" enodeid="Circ_eNode-321" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-322: 
+<item endpinid="Led-37-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output16" id="Connector-319" valLabely="0" objectName="Connector-322" y="-91" x="-1324" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1324,-92,-1324,-260,-1380,-260,-1380,-276" valLabelx="0" enodeid="Circ_eNode-323" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-324: 
+<item endpinid="Led-39-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output10" id="Connector-307" valLabely="0" objectName="Connector-324" y="-91" x="-1420" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1420,-92,-1420,-204,-1076,-204,-1076,-276,-1084,-276" valLabelx="0" enodeid="Circ_eNode-325" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-326: 
+<item endpinid="Led-36-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output18" id="Connector-324" valLabely="0" objectName="Connector-326" y="-91" x="-1292" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1292,-92,-1292,-220,-1484,-220,-1484,-276" valLabelx="0" enodeid="Circ_eNode-327" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-328: 
+<item endpinid="Function-19-ePin-output19" rotation="0" hflip="1" startpinid="Led-35-lPin" id="Connector-325" valLabely="0" objectName="Connector-328" y="-276" x="-1532" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1532,-276,-1532,-260,-1564,-260,-1564,-180,-1276,-180,-1276,-92" valLabelx="0" enodeid="Circ_eNode-329" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-330: 
+<item endpinid="Led-75-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output20" id="Connector-326" valLabely="0" objectName="Connector-330" y="-91" x="-1260" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1260,-92,-1260,-228,-1268,-228,-1268,-292,-1084,-292,-1084,-308" valLabelx="0" enodeid="Circ_eNode-331" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-332: 
+<item endpinid="Function-19-ePin-output21" rotation="0" hflip="1" startpinid="Led-42-lPin" id="Connector-327" valLabely="0" objectName="Connector-332" y="-308" x="-1132" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1132,-308,-1132,-300,-1228,-300,-1228,-92,-1244,-92" valLabelx="0" enodeid="Circ_eNode-333" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-334: 
+<item endpinid="Led-65-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output22" id="Connector-328" valLabely="0" objectName="Connector-334" y="-91" x="-1228" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1228,-92,-1228,-324,-1188,-324,-1188,-308" valLabelx="0" enodeid="Circ_eNode-335" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-336: 
+<item endpinid="Function-19-ePin-output23" rotation="0" hflip="1" startpinid="Led-74-lPin" id="Connector-329" valLabely="0" objectName="Connector-336" y="-308" x="-1236" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1236,-308,-1236,-116,-1212,-116,-1212,-92" valLabelx="0" enodeid="Circ_eNode-337" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-338: 
+<item endpinid="Led-57-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output24" id="Connector-330" valLabely="0" objectName="Connector-338" y="-91" x="-1196" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1196,-92,-1196,-228,-1284,-228,-1284,-308" valLabelx="0" enodeid="Circ_eNode-339" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-340: 
+<item endpinid="Function-19-ePin-output25" rotation="0" hflip="1" startpinid="Led-77-lPin" id="Connector-331" valLabely="0" objectName="Connector-340" y="-308" x="-1332" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1332,-308,-1332,-164,-1180,-164,-1180,-92" valLabelx="0" enodeid="Circ_eNode-341" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-342: 
+<item endpinid="Led-62-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output26" id="Connector-332" valLabely="0" objectName="Connector-342" y="-91" x="-1164" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1164,-92,-1164,-180,-1364,-180,-1364,-308,-1380,-308" valLabelx="0" enodeid="Circ_eNode-343" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-344: 
+<item endpinid="Function-19-ePin-output17" rotation="0" hflip="1" startpinid="Led-26-lPin" id="Connector-323" valLabely="0" objectName="Connector-344" y="-276" x="-1436" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1436,-276,-1436,-260,-1420,-260,-1420,-172,-1308,-172,-1308,-92" valLabelx="0" enodeid="Circ_eNode-345" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-346: 
+<item endpinid="Led-53-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output27" id="Connector-336" valLabely="0" objectName="Connector-346" y="-91" x="-1148" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1148,-92,-1148,-220,-1412,-220,-1412,-308,-1436,-308" valLabelx="0" enodeid="Circ_eNode-347" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-348: 
+<item endpinid="Function-19-ePin-output28" rotation="0" hflip="1" startpinid="Led-48-lPin" id="Connector-338" valLabely="0" objectName="Connector-348" y="-308" x="-1484" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1484,-308,-1468,-308,-1468,-172,-1132,-172,-1132,-92" valLabelx="0" enodeid="Circ_eNode-349" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-350: 
+<item endpinid="Led-47-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output29" id="Connector-339" valLabely="0" objectName="Connector-350" y="-91" x="-1116" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1116,-92,-1116,-204,-1524,-204,-1524,-308,-1532,-308" valLabelx="0" enodeid="Circ_eNode-351" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-352: 
+<item endpinid="Function-19-ePin-output30" rotation="0" hflip="1" startpinid="Led-58-lPin" id="Connector-340" valLabely="0" objectName="Connector-352" y="-340" x="-1084" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1084,-340,-1068,-340,-1068,-116,-1100,-116,-1100,-92" valLabelx="0" enodeid="Circ_eNode-353" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-354: 
+<item endpinid="Function-19-ePin-output31" rotation="0" hflip="1" startpinid="Led-66-lPin" id="Connector-341" valLabely="0" objectName="Connector-354" y="-340" x="-1132" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1132,-340,-1116,-340,-1116,-324,-1060,-324,-1060,-108,-1084,-108,-1084,-92" valLabelx="0" enodeid="Circ_eNode-355" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-356: 
+<item endpinid="Led-68-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output32" id="Connector-342" valLabely="0" objectName="Connector-356" y="-91" x="-1068" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1068,-92,-1068,-356,-1188,-356,-1188,-340" valLabelx="0" enodeid="Circ_eNode-357" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-358: 
+<item endpinid="Led-60-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output34" id="Connector-344" valLabely="0" objectName="Connector-358" y="-91" x="-1036" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1036,-92,-1036,-196,-1276,-196,-1276,-340,-1284,-340" valLabelx="0" enodeid="Circ_eNode-359" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-360: 
+<item endpinid="Function-19-ePin-output35" rotation="0" hflip="1" startpinid="Led-73-lPin" id="Connector-345" valLabely="0" objectName="Connector-360" y="-340" x="-1332" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1332,-340,-1324,-340,-1324,-188,-1020,-188,-1020,-92" valLabelx="0" enodeid="Circ_eNode-361" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-362: 
+<item endpinid="Led-41-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output36" id="Connector-346" valLabely="0" objectName="Connector-362" y="-91" x="-1004" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1004,-92,-1004,-236,-1380,-236,-1380,-340" valLabelx="0" enodeid="Circ_eNode-363" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-364: 
+<item endpinid="Function-19-ePin-output38" rotation="0" hflip="1" startpinid="Led-72-lPin" id="Connector-351" valLabely="0" objectName="Connector-364" y="-340" x="-1484" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1484,-340,-1476,-340,-1476,-316,-972,-316,-972,-92" valLabelx="0" enodeid="Circ_eNode-365" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-366: 
+<item endpinid="Function-19-ePin-output39" rotation="0" hflip="1" startpinid="Led-78-lPin" id="Connector-352" valLabely="0" objectName="Connector-366" y="-340" x="-1532" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1532,-340,-1532,-316,-956,-316,-956,-92" valLabelx="0" enodeid="Circ_eNode-367" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-368: 
+<item endpinid="Led-52-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output40" id="Connector-353" valLabely="0" objectName="Connector-368" y="-91" x="-940" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-940,-92,-940,-372,-1084,-372" valLabelx="0" enodeid="Circ_eNode-369" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-370: 
+<item endpinid="Function-19-ePin-output41" rotation="0" hflip="1" startpinid="Led-49-lPin" id="Connector-354" valLabely="0" objectName="Connector-370" y="-372" x="-1132" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1132,-372,-1132,-388,-924,-388,-924,-92" valLabelx="0" enodeid="Circ_eNode-371" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-372: 
+<item endpinid="Function-19-ePin-output42" rotation="0" hflip="1" startpinid="Led-70-lPin" id="Connector-364" valLabely="0" objectName="Connector-372" y="-372" x="-1188" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1188,-372,-1188,-380,-908,-380,-908,-92" valLabelx="0" enodeid="Circ_eNode-373" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-374: 
+<item endpinid="Function-19-ePin-output44" rotation="0" hflip="1" startpinid="Led-54-lPin" id="Connector-366" valLabely="0" objectName="Connector-374" y="-372" x="-1284" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1284,-372,-1284,-140,-876,-140,-876,-92" valLabelx="0" enodeid="Circ_eNode-375" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-376: 
+<item endpinid="Led-76-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output45" id="Connector-367" valLabely="0" objectName="Connector-376" y="-91" x="-860" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-860,-92,-860,-196,-1324,-196,-1324,-372,-1332,-372" valLabelx="0" enodeid="Circ_eNode-377" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-378: 
+<item endpinid="Led-71-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output43" id="Connector-365" valLabely="0" objectName="Connector-378" y="-91" x="-892" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-892,-92,-892,-396,-1236,-396,-1236,-372" valLabelx="0" enodeid="Circ_eNode-379" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-380: 
+<item endpinid="Function-19-ePin-output46" rotation="0" hflip="1" startpinid="Led-51-lPin" id="Connector-374" valLabely="0" objectName="Connector-380" y="-372" x="-1380" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1380,-372,-1380,-116,-844,-116,-844,-92" valLabelx="0" enodeid="Circ_eNode-381" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-382: 
+<item endpinid="Led-79-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output47" id="Connector-375" valLabely="0" objectName="Connector-382" y="-91" x="-828" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-828,-92,-828,-228,-1420,-228,-1420,-372,-1436,-372" valLabelx="0" enodeid="Circ_eNode-383" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-384: 
+<item endpinid="Function-19-ePin-output48" rotation="0" hflip="1" startpinid="Led-55-lPin" id="Connector-376" valLabely="0" objectName="Connector-384" y="-372" x="-1484" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1484,-372,-1484,-116,-812,-116,-812,-92" valLabelx="0" enodeid="Circ_eNode-385" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-386: 
+<item endpinid="Led-69-lPin" rotation="0" hflip="1" startpinid="Function-19-ePin-output49" id="Connector-377" valLabely="0" objectName="Connector-386" y="-91" x="-796" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-796,-92,-796,-196,-1524,-196,-1524,-372,-1532,-372" valLabelx="0" enodeid="Circ_eNode-387" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-388: 
+<item endpinid="Led-119-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output3" id="Connector-189" valLabely="0" objectName="Connector-388" y="-868" x="-836" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-836,-868,-836,-676,-1236,-676,-1236,-532" valLabelx="0" enodeid="Circ_eNode-389" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-390: 
+<item endpinid="Node-8-0" rotation="0" hflip="1" startpinid="Arduino Uno-107-PB2" id="Connector-396" valLabely="0" objectName="Connector-390" y="-436" x="-868" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-868,-436,-756,-436,-756,-668,-452,-668" valLabelx="0" enodeid="Circ_eNode-391" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-392: 
+<item endpinid="Node-7-0" rotation="0" hflip="1" startpinid="Function-20-ePin-input11" id="Connector-397" valLabely="0" objectName="Connector-392" y="-916" x="-876" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-876,-916,-876,-1004,-444,-1004,-444,-676" valLabelx="0" enodeid="Circ_eNode-393" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-394: 
+<item endpinid="Function-20-ePin-input8" rotation="0" hflip="1" startpinid="Node-10-2" id="Connector-399" valLabely="0" objectName="Connector-394" y="-652" x="-468" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-468,-652,-468,-980,-852,-980,-852,-916" valLabelx="0" enodeid="Circ_eNode-395" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-396: 
+<item endpinid="Function-19-ePin-input8" rotation="0" hflip="1" startpinid="Node-10-1" id="Connector-400" valLabely="0" objectName="Connector-396" y="-652" x="-468" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-468,-652,-468,-492,-380,-492,-380,44,-1516,44,-1516,-44" valLabelx="0" enodeid="Circ_eNode-395" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-397: 
+<item endpinid="Node-9-1" rotation="0" hflip="1" startpinid="Function-19-ePin-input9" id="Connector-401" valLabely="0" objectName="Connector-397" y="-43" x="-1508" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1508,-44,-1508,36,-372,36,-372,-500,-460,-500,-460,-660" valLabelx="0" enodeid="Circ_eNode-398" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-399: 
+<item endpinid="Function-20-ePin-input9" rotation="0" hflip="1" startpinid="Node-9-2" id="Connector-403" valLabely="0" objectName="Connector-399" y="-660" x="-460" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-460,-660,-460,-988,-860,-988,-860,-916" valLabelx="0" enodeid="Circ_eNode-398" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-400: 
+<item endpinid="Function-20-ePin-input10" rotation="0" hflip="1" startpinid="Node-8-2" id="Connector-405" valLabely="0" objectName="Connector-400" y="-668" x="-452" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-452,-668,-452,-996,-868,-996,-868,-916" valLabelx="0" enodeid="Circ_eNode-391" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-401: 
+<item endpinid="Node-7-1" rotation="0" hflip="1" startpinid="Function-19-ePin-input11" id="Connector-407" valLabely="0" objectName="Connector-401" y="-43" x="-1492" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1492,-44,-1492,20,-356,20,-356,-516,-444,-516,-444,-676" valLabelx="0" enodeid="Circ_eNode-393" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-402: 
+<item endpinid="Arduino Uno-107-PB3" rotation="0" hflip="1" startpinid="Node-7-2" id="Connector-409" valLabely="0" objectName="Connector-402" y="-676" x="-444" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-444,-676,-748,-676,-748,-428,-868,-428" valLabelx="0" enodeid="Circ_eNode-393" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-403: 
+<item endpinid="Led-127-lPin" rotation="0" hflip="1" startpinid="Function-20-ePin-output15" id="Connector-244" valLabely="0" objectName="Connector-403" y="-868" x="-1028" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1028,-868,-1028,-556,-1316,-556,-1316,-500,-1332,-500" valLabelx="0" enodeid="Circ_eNode-404" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-405: 
+<item endpinid="Function-19-ePin-input7" rotation="0" hflip="1" startpinid="Node-11-1" id="Connector-388" valLabely="0" objectName="Connector-405" y="-644" x="-476" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-476,-644,-476,-484,-388,-484,-388,52,-1524,52,-1524,-44" valLabelx="0" enodeid="Circ_eNode-175" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-406: 
+<item endpinid="Node-10-0" rotation="0" hflip="1" startpinid="Arduino Uno-107-PB0" id="Connector-391" valLabely="0" objectName="Connector-406" y="-452" x="-868" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-868,-452,-772,-452,-772,-652,-468,-652" valLabelx="0" enodeid="Circ_eNode-395" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-407: 
+<item endpinid="Function-19-ePin-output37" rotation="0" hflip="1" startpinid="Led-61-lPin" id="Connector-360" valLabely="0" objectName="Connector-407" y="-340" x="-1436" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1436,-340,-1428,-340,-1428,-204,-988,-204,-988,-92" valLabelx="0" enodeid="Circ_eNode-408" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-409: 
+<item endpinid="Function-19-ePin-input10" rotation="0" hflip="1" startpinid="Node-8-1" id="Connector-400" valLabely="0" objectName="Connector-409" y="-668" x="-452" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-452,-668,-452,-508,-364,-508,-364,28,-1500,28,-1500,-44" valLabelx="0" enodeid="Circ_eNode-391" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-410: 
+<item endpinid="Function-19-ePin-output33" rotation="0" hflip="1" startpinid="Led-43-lPin" id="Connector-368" valLabely="0" objectName="Connector-410" y="-340" x="-1236" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-1236,-340,-1236,-364,-1052,-364,-1052,-92" valLabelx="0" enodeid="Circ_eNode-411" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-412: 
+<item endpinid="Arduino Uno-107-GND2" rotation="0" hflip="1" startpinid="AudioOut-6-rPin" id="Connector-412" valLabely="0" objectName="Connector-412" y="-420" x="-964" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-964,-420,-964,-452,-724,-452" valLabelx="0" enodeid="Circ_eNode-413" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-414: 
+<item endpinid="Node-9-0" rotation="0" hflip="1" startpinid="Arduino Uno-107-PB4" id="Connector-419" valLabely="0" objectName="Connector-414" y="-420" x="-868" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-868,-420,-844,-420,-844,-444,-764,-444,-764,-660,-460,-660" valLabelx="0" enodeid="Circ_eNode-398" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-415: 
+<item endpinid="Node-18-0" rotation="0" hflip="1" startpinid="Arduino Uno-107-PD0" id="Connector-159" valLabely="0" objectName="Connector-415" y="-524" x="-868" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-868,-524,-868,-588,-532,-588" valLabelx="0" enodeid="Circ_eNode-177" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-416: 
+<item endpinid="AudioOut-6-lPin" rotation="0" hflip="1" startpinid="Arduino Uno-107-PB1" id="Connector-411" valLabely="0" objectName="Connector-416" y="-444" x="-868" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-868,-444,-964,-444,-964,-412" valLabelx="0" enodeid="Circ_eNode-417" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+Connector-418: 
+<item endpinid="Node-16-0" rotation="0" hflip="1" startpinid="Arduino Uno-107-PD2" id="Connector-176" valLabely="0" objectName="Connector-418" y="-508" x="-868" labelx="-16" itemtype="Connector" valLabRot="0" pointList="-868,-508,-900,-508,-900,-604,-516,-604" valLabelx="0" enodeid="Circ_eNode-183" labely="-24" vflip="1" labelrot="0" Show_id="false"/>
+ 
+PlotterWidget-419: 
+<item focus="false" contextMenuPolicy="1" baseSize="" Scale="1" maximumSize="" layoutDirection="0" geometry="" toolTip="" styleSheet="" Tracks="1" autoFillBackground="false" MinVolt="-500" size="" y="0" objectName="PlotterWidget-419" focusPolicy="0" childrenRect="" enabled="true" fullScreen="false" frameGeometry="" windowModality="0" sizeIncrement="" statusTip="" maximumHeight="200" maximized="false" inputMethodHints="0" locale="" width="200" height="200" windowFilePath="" accessibleDescription="" mouseTracking="false" accessibleName="" x="0" sizeHint="" childrenRegion="" windowTitle="" minimized="false" updatesEnabled="true" windowOpacity="1" modal="false" windowIcon="" minimumWidth="200" minimumSizeHint="" minimumHeight="200" acceptDrops="false" sizePolicy="" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" frameSize="" normalGeometry="" visible="false" windowIconText="" maximumWidth="1000" itemtype="Plotter" palette="" isActiveWindow="true" MaxVolt="500" minimumSize="" cursor="" windowModified="false" rect="" pos="" toolTipDuration="-1" whatsThis=""/>
+ 
+SerialPortWidget-420: 
+<item focus="false" contextMenuPolicy="1" baseSize="" maximumSize="" layoutDirection="0" geometry="" toolTip="" styleSheet="" autoFillBackground="false" size="" y="0" objectName="SerialPortWidget-420" focusPolicy="0" childrenRect="" enabled="true" fullScreen="false" frameGeometry="" windowModality="0" sizeIncrement="" statusTip="" maximumHeight="170" maximized="false" inputMethodHints="0" locale="" width="313" height="141" windowFilePath="" accessibleDescription="" mouseTracking="false" accessibleName="" x="0" sizeHint="" childrenRegion="" windowTitle="Settings" SettingsProp="COM15,0,3,0,0,0" minimized="false" updatesEnabled="true" windowOpacity="1" modal="false" windowIcon="" minimumWidth="0" minimumSizeHint="" minimumHeight="0" acceptDrops="false" sizePolicy="" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" frameSize="" normalGeometry="" visible="false" windowIconText="" maximumWidth="450" itemtype="SerialPort" palette="" isActiveWindow="true" minimumSize="" cursor="" windowModified="false" rect="" pos="" toolTipDuration="-1" whatsThis=""/>
+ 
+</circuit>
